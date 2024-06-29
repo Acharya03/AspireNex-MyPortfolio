@@ -12,12 +12,11 @@
 }
 
 :root {
-    --bg-color: #4a2582;
-    --second-bg-color: #a381d7;
+    --bg-color: #081b29;
+    --second-bg-color: #112e42;
     --text-color: #ededed;
-    --main-color: #b119e8;
+    --main-color: #00abf0;
 }
-
 html {
     font-size: 62.5%;
     overflow-x: hidden;
